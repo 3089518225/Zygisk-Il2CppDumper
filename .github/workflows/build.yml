@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
       inputs:
         package_name:com.hxjy.union.dn
-          description: "Package name of the game:"
+          description:com.hxjy.union.dn
           required: true
 
 jobs:
