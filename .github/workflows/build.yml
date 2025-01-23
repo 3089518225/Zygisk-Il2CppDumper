@@ -2,8 +2,8 @@ name: Build
 on:
   workflow_dispatch:
       inputs:
-        package_name:com.hxjy.union.dn
-          description:com.hxjy.union.dn
+        package_name:
+          description:
           required: true
 
 jobs:
